@@ -16,7 +16,7 @@
 # -------------------------------------------------------------------------------------------------
 export PATH="/home/avinash/Softwares/anaconda2/bin:$PATH"   # Python2.7 path
 export PATH="/home/avinash/Softwares/miniconda3/bin:$PATH"  # Python3.7 path
-export PATH=/home/avinash/Softwares/fv:$PATH                # FITS Viewer
+#export PATH=/home/avinash/Softwares/fv:$PATH                # FITS Viewer
 export ZSH="/home/avinash/.oh-my-zsh"                       # Path to 'oh-my-zsh' installation
 
 ZSH_THEME="robbyrussell"                                    # Set Zsh theme
