@@ -39,7 +39,7 @@ git checkout master                     # Takes you back to the master branch
 git branch -m <oldname> <newname>       # Renames the specified branch
 git branch -m <newname>                 # Renames the current branch
 
-git checkout <branch> && git merge master   # Merge the branch to the master branch            
+git checkout <branch> && git merge master   # Merge the branch to the master branch
 -----------------------------------------------------------------------------------------------------------------------
 4. Delete Project
 -----------------------------------------------------------------------------------------------------------------------
@@ -59,5 +59,5 @@ git add README.md
 git commit -m "Add a README file"
 git remote add origin https://github.com/<github_id>/<repo>.git
 git branch -M main
-git push -u origin main
+git push -u origin main
 -----------------------------------------------------------------------------------------------------------------------
