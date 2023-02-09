@@ -5,8 +5,8 @@
        888888   888       .d888888  888  Y8P  888
            888  888       88   888  888   '   888
     o 8888888   888       'd888888  888       888
-         
-# DotFile Repo
+
+    # Yet Another Dotfile Repo v1.0
 
 1) .vimrc
 2) .zshrc
